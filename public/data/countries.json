@@ -1,0 +1,14 @@
+{
+    "countries": [
+        { "name": "USA", "code": "USA" },
+        { "name": "Canada", "code": "CAN" },
+        { "name": "Mexico", "code": "MEX" },
+        { "name": "Australia", "code": "AUS" },
+        { "name": "Brazil", "code": "BRA" },
+        { "name": "France", "code": "FRA" },
+        { "name": "Germany", "code": "GER" },
+        { "name": "Spain", "code": "ESP" },
+        { "name": "Italy", "code": "ITA" },
+        { "name": "UK", "code": "UK" }
+    ]
+}
